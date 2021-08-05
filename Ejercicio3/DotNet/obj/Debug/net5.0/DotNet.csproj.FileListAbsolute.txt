@@ -1,0 +1,16 @@
+D:\GoNet\Ejercicio3\DotNet\bin\Debug\net5.0\DotNet.exe
+D:\GoNet\Ejercicio3\DotNet\bin\Debug\net5.0\DotNet.deps.json
+D:\GoNet\Ejercicio3\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.json
+D:\GoNet\Ejercicio3\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.dev.json
+D:\GoNet\Ejercicio3\DotNet\bin\Debug\net5.0\DotNet.dll
+D:\GoNet\Ejercicio3\DotNet\bin\Debug\net5.0\ref\DotNet.dll
+D:\GoNet\Ejercicio3\DotNet\bin\Debug\net5.0\DotNet.pdb
+D:\GoNet\Ejercicio3\DotNet\obj\Debug\net5.0\DotNet.csproj.AssemblyReference.cache
+D:\GoNet\Ejercicio3\DotNet\obj\Debug\net5.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoNet\Ejercicio3\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfoInputs.cache
+D:\GoNet\Ejercicio3\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfo.cs
+D:\GoNet\Ejercicio3\DotNet\obj\Debug\net5.0\DotNet.csproj.CoreCompileInputs.cache
+D:\GoNet\Ejercicio3\DotNet\obj\Debug\net5.0\DotNet.dll
+D:\GoNet\Ejercicio3\DotNet\obj\Debug\net5.0\ref\DotNet.dll
+D:\GoNet\Ejercicio3\DotNet\obj\Debug\net5.0\DotNet.pdb
+D:\GoNet\Ejercicio3\DotNet\obj\Debug\net5.0\DotNet.genruntimeconfig.cache
