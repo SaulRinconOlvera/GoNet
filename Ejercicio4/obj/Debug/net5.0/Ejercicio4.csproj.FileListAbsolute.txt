@@ -1,0 +1,16 @@
+D:\GoNet\Ejercicio4\bin\Debug\net5.0\Ejercicio4.exe
+D:\GoNet\Ejercicio4\bin\Debug\net5.0\Ejercicio4.deps.json
+D:\GoNet\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.json
+D:\GoNet\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.dev.json
+D:\GoNet\Ejercicio4\bin\Debug\net5.0\Ejercicio4.dll
+D:\GoNet\Ejercicio4\bin\Debug\net5.0\ref\Ejercicio4.dll
+D:\GoNet\Ejercicio4\bin\Debug\net5.0\Ejercicio4.pdb
+D:\GoNet\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.AssemblyReference.cache
+D:\GoNet\Ejercicio4\obj\Debug\net5.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoNet\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfoInputs.cache
+D:\GoNet\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfo.cs
+D:\GoNet\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\GoNet\Ejercicio4\obj\Debug\net5.0\Ejercicio4.dll
+D:\GoNet\Ejercicio4\obj\Debug\net5.0\ref\Ejercicio4.dll
+D:\GoNet\Ejercicio4\obj\Debug\net5.0\Ejercicio4.pdb
+D:\GoNet\Ejercicio4\obj\Debug\net5.0\Ejercicio4.genruntimeconfig.cache
