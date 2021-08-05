@@ -1,0 +1,41 @@
+﻿@page
+@model MyApp.Namespace.Ejercicio5Model
+@{
+}
+
+<link rel="stylesheet" href="~/css/site.css" />
+<script src="~/js/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        var options = {};
+        options.url = "/api/WeatherForecast";
+        options.type = "GET";
+        options.dataType = "json";
+        options.success = function (data) {            
+            data.forEach(function (element) {
+                $("#resultado").append(
+                    "<li>" + 
+                    element.temperatureC + "°C - " + 
+                    element.temperatureF + "°F - " + 
+                    element.summary + 
+                    "</li>"  
+                );
+            });
+        };
+        options.error = function () {
+            $("#msg").html("Error while calling the Web API!");
+        };
+        $.ajax(options);
+     });
+</script>
+
+<h1>
+    Ejercicio número 5
+</h1>
+
+<div>
+    <ul id="resultado" class='@Model.Estilo'></ul>
+</div>
+<div id="msg"></div>
+
