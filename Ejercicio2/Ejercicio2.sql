@@ -1,3 +1,10 @@
+Create TABLE Depositos (Titular nvarchar(30), monto int)
+Go;
+
+Insert into Depositos 
+Values('Ana', 50), ('Paco', 10), ('Ana', 20), ('Jorge', 55), ('Laura', 75), ('Laura', 3), ('Laura', 50)
+Go;
+
 Select  Titular, 
         Min(monto) as Minimo,
         Max(monto) as Maximo,
